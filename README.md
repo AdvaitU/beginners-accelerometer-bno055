@@ -26,5 +26,5 @@ SDA    ---->  SDA
 SCL    ---->  SCL     
 
 # Documentation of Functions
-(Check Accelerometer.h file comments for detailed explanation. Documentation will be updated here soon)
+Download folder sgtarting with "V2" for latest implementation. Documentation is contained in the comments of the BeginnersBNO055.h Header file while the example shows implementation for Arduino .ino sketch using the library.
 
